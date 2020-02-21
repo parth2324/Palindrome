@@ -1,7 +1,7 @@
 # Palindrome
 Checking whether input number is a palindrome or not, via Palindrome Pair Theory.
 Hi,
-This Theory is given by me, Parth, according to which plaindrome numbers exist in pairs such that :
+This Theory is given by me, Parth, according to which palindrome numbers exist in pairs such that :
 Pair(n,evenized(n/11));
 evenize() : Check out the code ! ex) 121 -> 1221
                                  ex) 12321 -> 123321
