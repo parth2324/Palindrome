@@ -9,3 +9,4 @@ The program works on an observed axiom that if any number n is divisible by 11 a
 then n is a palindrome number. 
 Mathematical derivation for evenize() attached, and it also explain's the working with a testcase.
   
+EDIT: specific edge cases may fail, works for 'most' number currently.
